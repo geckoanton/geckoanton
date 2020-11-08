@@ -4,7 +4,7 @@ I'm a lizard owner who enjoys creating software for microcontrollers. Building s
 
 #### antongecko
 
-I do <i>not</i> own some of the accounts under the username "antongecko" on other social media platforms - to contact me, make sure to do so through github (or any links provided from here)
+I do <b>not</b> own some of the accounts under the username "antongecko" on other social media platforms - to contact me, make sure to do so through github (or any links provided from here)
 
 Here is a picture of my gecko Leo :)
 
