@@ -9,7 +9,7 @@ I do <i>not</i> own some of the accounts under the name "antongecko" on other so
 Here is a picture of my lizard Leo :)
 
 <p align="left">
-  <img src="leo.png" alt="Leo">
+  <img src="leo.jpg" alt="Leo">
 </p>
 
 <!--
