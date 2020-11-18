@@ -2,10 +2,6 @@
 
 I'm a lizard owner who enjoys creating software for microcontrollers. Building stuff that interfaces specialized hardware in any way is my main interest, even though I like playing around with computers in general.
 
-#### antongecko
-
-I do <b>not</b> own some of the accounts under the username "antongecko" on other social media platforms - to contact me, make sure to do so through github (or any links provided from here)
-
 Here is a picture of my gecko Leo :)
 
 <p align="left">
