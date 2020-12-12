@@ -2,10 +2,12 @@
 
 I'm a lizard owner who enjoys creating software for microcontrollers. Building stuff that interfaces specialized hardware in any way is my main interest, even though I like playing around with computers in general.
 
+- 📫 How to reach me: geckoanton37@gmail.com
+
 Here is a picture of my gecko Leo :)
 
 <p align="left">
-  <img src="leo.jpg" alt="Leo">
+  <img src="leo.jpg" height="256" alt="Leo">
 </p>
 
 <!--
@@ -18,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
