@@ -7,7 +7,7 @@ I'm a lizard owner who enjoys creating software for microcontrollers. Building s
 Here is a picture of my gecko Leo :)
 
 <p align="left">
-  <img src="leo.jpg" height="256" alt="Leo">
+  <img src="leo.jpg" width="512" alt="Leo">
 </p>
 
 <!--
