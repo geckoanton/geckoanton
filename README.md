@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a lizard owner who enjoys creating software for microcontrollers. Building stuff that interfaces specialized hardware in any way is my main interest, even though I like playing around with computers in general.
+I'm a lizard owner who enjoys creating software for microcontrollers. Building stuff that interfaces hardware in any way is my main interest, even though I like playing around with computers in general.
 
 - 📫 How to reach me: geckoanton37@gmail.com
 
