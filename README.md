@@ -1,3 +1,9 @@
+Here is a picture of my gecko Leo :)
+
+<p align="left">
+  <img src="leo.jpg" width="512" alt="Leo">
+</p>
+
 <!--
 **antongecko/antongecko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
